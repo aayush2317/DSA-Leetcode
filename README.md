@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/aayush2317/DSA-Leetcode/tree/master/2235-add-two-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aayush2317/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aayush2317/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
