@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/aayush2317/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/aayush2317/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aayush2317/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aayush2317/DSA-Leetcode/tree/master/0383-ransom-note) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/aayush2317/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aayush2317/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
