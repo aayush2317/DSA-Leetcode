@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aayush2317/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/aayush2317/DSA-Leetcode/tree/master/2235-add-two-integers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aayush2317/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
