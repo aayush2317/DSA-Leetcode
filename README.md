@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/aayush2317/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
