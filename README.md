@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aayush2317/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
