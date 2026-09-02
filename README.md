@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/aayush2317/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/aayush2317/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aayush2317/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aayush2317/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aayush2317/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aayush2317/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aayush2317/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/aayush2317/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aayush2317/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aayush2317/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aayush2317/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -167,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aayush2317/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aayush2317/DSA-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
