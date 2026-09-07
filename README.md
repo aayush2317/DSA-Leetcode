@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/aayush2317/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aayush2317/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayush2317/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
