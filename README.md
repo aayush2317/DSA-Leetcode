@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayush2317/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush2317/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aayush2317/DSA-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aayush2317/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayush2317/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aayush2317/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush2317/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aayush2317/DSA-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aayush2317/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aayush2317/DSA-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
