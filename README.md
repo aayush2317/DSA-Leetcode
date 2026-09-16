@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aayush2317/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aayush2317/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/aayush2317/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/aayush2317/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/aayush2317/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/aayush2317/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/aayush2317/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush2317/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/aayush2317/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aayush2317/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0645-set-mismatch](https://github.com/aayush2317/DSA-Leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/aayush2317/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aayush2317/DSA-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Prefix Sum
