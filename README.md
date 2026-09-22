@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aayush2317/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayush2317/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/aayush2317/DSA-Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aayush2317/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aayush2317/DSA-Leetcode/tree/master/0053-maximum-subarray) |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aayush2317/DSA-Leetcode/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/aayush2317/DSA-Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
