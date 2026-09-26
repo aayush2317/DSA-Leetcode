@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aayush2317/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/aayush2317/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayush2317/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush2317/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/aayush2317/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aayush2317/DSA-Leetcode/tree/master/0645-set-mismatch) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush2317/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/aayush2317/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/aayush2317/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/aayush2317/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Queue
 |  |
 | ------- |
