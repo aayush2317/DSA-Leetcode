@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/aayush2317/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aayush2317/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aayush2317/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aayush2317/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aayush2317/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aayush2317/DSA-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aayush2317/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aayush2317/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
