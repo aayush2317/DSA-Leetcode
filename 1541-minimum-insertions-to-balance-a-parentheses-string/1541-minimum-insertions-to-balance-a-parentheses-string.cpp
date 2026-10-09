@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minInsertions(string s) {
-         int ans = 0;
+        int ans = 0;
         int need = 0;
 
         for (char ch : s) {
