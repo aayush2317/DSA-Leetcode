@@ -1,104 +1,70 @@
 class Solution {
-    bool isRotation(vector<int>& nums,
-                    vector<int>& target,
-                    int start,
-                    int k)
-    {
-        // Build LPS array for target block
-        vector<int> lps(k, 0);
-
-        for(int i = 1, len = 0; i < k; )
-        {
-            if(target[start + i] == target[start + len])
-            {
-                lps[i] = len + 1;
-                i++;
-                len++;
-            }
-            else
-            {
-                if(len > 0)
-                    len = lps[len - 1];
-                else
-                    i++;
-            }
-        }
-
-        int j = 0;
-
-        // Search target block inside
-        // original block + original block
-        for(int i = 0; i < 2 * k - 1; i++)
-        {
-            int value = nums[start + (i % k)];
-
-            while(j > 0 && value != target[start + j])
-            {
-                j = lps[j - 1];
-            }
-
-            if(value == target[start + j])
-            {
-                j++;
-            }
-
-            if(j == k)
-                return true;
-        }
-
-        return false;
-    }
-
-    bool possible(vector<int>& nums,
-                  vector<int>& target,
-                  int k)
-    {
-        int n = nums.size();
-
-        // Check every block of size k
-        for(int start = 0; start < n; start += k)
-        {
-            if(!isRotation(nums, target, start, k))
-                return false;
-        }
-
-        return true;
-    }
-
 public:
-    int sortableIntegers(vector<int>& nums) {
+    int sortableIntegers(std::vector<int>& nums) {
         int n = nums.size();
-
-        // Final sorted array
-        vector<int> target = nums;
-        sort(target.begin(), target.end());
-
-        long long ans = 0;
-
-        // Find divisors of n
-        for(int k = 1; k * k <= n; k++)
-        {
-            if(n % k != 0)
-                continue;
-
-            // First divisor
-            if(possible(nums, target, k))
-            {
-                ans += k;
-            }
-
-            // Second divisor
-            int other = n / k;
-
-            if(other != k)
-            {
-                if(possible(nums, target, other))
-                {
-                    ans += other;
+        
+        // Find all divisors of n
+        std::vector<int> divisors;
+        for (int i = 1; i * i <= n; ++i) {
+            if (n % i == 0) {
+                divisors.push_back(i);
+                if (i * i != n) {
+                    divisors.push_back(n / i);
                 }
             }
         }
 
-        return ans;
+        int total_sum = 0;
+
+        for (int k : divisors) {
+            bool valid = true;
+            int prev_max = -1; // Keep track of maximum element of the previous sorted block
+
+            for (int i = 0; i < n; i += k) {
+                // Check block nums[i ... i + k - 1]
+                int drops = 0;
+                int drop_idx = -1;
+
+                for (int j = 0; j < k - 1; ++j) {
+                    if (nums[i + j] > nums[i + j + 1]) {
+                        drops++;
+                        drop_idx = j;
+                    }
+                }
+
+                int block_min, block_max;
+
+                if (drops == 0) {
+                    block_min = nums[i];
+                    block_max = nums[i + k - 1];
+                } else if (drops == 1) {
+                    // Cyclic rotation is valid only if last element <= first element
+                    if (nums[i + k - 1] > nums[i]) {
+                        valid = false;
+                        break;
+                    }
+                    block_min = nums[i + drop_idx + 1];
+                    block_max = nums[i + drop_idx];
+                } else {
+                    // More than 1 drop cannot be sorted by rotation
+                    valid = false;
+                    break;
+                }
+
+                // Check condition between consecutive blocks
+                if (prev_max != -1 && block_min < prev_max) {
+                    valid = false;
+                    break;
+                }
+
+                prev_max = block_max;
+            }
+
+            if (valid) {
+                total_sum += k;
+            }
+        }
+
+        return total_sum;
     }
 };
