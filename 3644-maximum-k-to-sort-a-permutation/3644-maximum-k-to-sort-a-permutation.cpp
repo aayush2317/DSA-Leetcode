@@ -14,6 +14,7 @@ public:
                 k=k & nums[i];
             }
         }
-         return k == -1 ? 0 : k;
+         if(k==-1) return 0;
+         else return k;
     }
 };
