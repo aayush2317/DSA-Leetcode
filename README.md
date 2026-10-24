@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/aayush2317/DSA-Leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/aayush2317/DSA-Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aayush2317/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0189-rotate-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aayush2317/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/aayush2317/DSA-Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aayush2317/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/aayush2317/DSA-Leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/aayush2317/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -456,4 +459,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aayush2317/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aayush2317/DSA-Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aayush2317/DSA-Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
