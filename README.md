@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aayush2317/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aayush2317/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aayush2317/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aayush2317/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aayush2317/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/aayush2317/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayush2317/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -522,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aayush2317/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
