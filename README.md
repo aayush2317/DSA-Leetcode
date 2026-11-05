@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/aayush2317/DSA-Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aayush2317/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aayush2317/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/aayush2317/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/aayush2317/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aayush2317/DSA-Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aayush2317/DSA-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/aayush2317/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayush2317/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aayush2317/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aayush2317/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aayush2317/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/aayush2317/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
