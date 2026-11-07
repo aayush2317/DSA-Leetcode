@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/aayush2317/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aayush2317/DSA-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2315-count-asterisks](https://github.com/aayush2317/DSA-Leetcode/tree/master/2315-count-asterisks) |
 | [2409-count-days-spent-together](https://github.com/aayush2317/DSA-Leetcode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aayush2317/DSA-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
