@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush2317/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aayush2317/DSA-Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/aayush2317/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3028-ant-on-the-boundary](https://github.com/aayush2317/DSA-Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3046-split-the-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aayush2317/DSA-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aayush2317/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aayush2317/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3028-ant-on-the-boundary](https://github.com/aayush2317/DSA-Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aayush2317/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/aayush2317/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/aayush2317/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayush2317/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aayush2317/DSA-Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3028-ant-on-the-boundary](https://github.com/aayush2317/DSA-Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3498-reverse-degree-of-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
