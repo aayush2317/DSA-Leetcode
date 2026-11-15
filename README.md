@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aayush2317/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/aayush2317/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/aayush2317/DSA-Leetcode/tree/master/2409-count-days-spent-together) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aayush2317/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aayush2317/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aayush2317/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/aayush2317/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aayush2317/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/aayush2317/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/aayush2317/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aayush2317/DSA-Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aayush2317/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aayush2317/DSA-Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/aayush2317/DSA-Leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aayush2317/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3028-ant-on-the-boundary](https://github.com/aayush2317/DSA-Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aayush2317/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aayush2317/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
