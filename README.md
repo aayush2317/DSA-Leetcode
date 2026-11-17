@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush2317/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/aayush2317/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3046-split-the-array](https://github.com/aayush2317/DSA-Leetcode/tree/master/3046-split-the-array) |
+| [3146-permutation-difference-between-two-strings](https://github.com/aayush2317/DSA-Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aayush2317/DSA-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aayush2317/DSA-Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush2317/DSA-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aayush2317/DSA-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2315-count-asterisks](https://github.com/aayush2317/DSA-Leetcode/tree/master/2315-count-asterisks) |
 | [2409-count-days-spent-together](https://github.com/aayush2317/DSA-Leetcode/tree/master/2409-count-days-spent-together) |
+| [3146-permutation-difference-between-two-strings](https://github.com/aayush2317/DSA-Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aayush2317/DSA-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aayush2317/DSA-Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
